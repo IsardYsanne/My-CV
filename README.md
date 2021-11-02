@@ -14,5 +14,4 @@ Used project assemblies: Gulp, Apache Maven, Prepros, etc.
 As a text editor/IDE I use: PhpStorm, IntelliJ IDEA, Visual Studio Code, Vim, Nano, Sublime Text
 <br>
 <br>
-![CV1](https://user-images.githubusercontent.com/78618492/134235059-afe3982a-beed-4ba9-8302-5e459ebd23ae.png)
 
