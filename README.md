@@ -5,7 +5,7 @@ Hello! I'm Galina, let me introduce you my CV-website.
 I'am doing Front-end and Back-end development. I would like to become a Full-stack developer in the future.
 <br>
 <br>
-My tech stack consists of Java, Spring, JavaScript, AngularJs PHP, SQL, HTML, SASS/LESS(CSS), Bootstrap, JQuery, Ajax, etc.
+My tech stack consists of Java, Spring, JavaScript, AngularJs, PHP, SQL, HTML, SASS/LESS(CSS), Bootstrap, JQuery, Ajax, etc.
 <br>
 In addition, I have various useful skills: development on Linux, use of OOP(php, java, js), Git(on Linux/Windows), Composer, LAMP/WAMP, Adobe Photoshop, REST API, CRUD
 <br>
